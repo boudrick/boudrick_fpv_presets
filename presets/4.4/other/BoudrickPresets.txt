@@ -10,9 +10,6 @@
 #$ DISCLAIMER: Text of disclaimer (mandatory for VTx Presets)
 #$ WARNING: Text of warning
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/nn
-#$ FORCE_OPTIONS_REVIEW
-
-#$ INCLUDE: presets/4.3/rates/defaults.txt
 
 #$ OPTION_GROUP BEGIN: Rates
     #$ OPTION BEGIN (UNCHECKED): Mob6 2024
